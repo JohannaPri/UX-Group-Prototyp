@@ -40,8 +40,25 @@ Anton Schyberg
 ## Screenshots
 
 - #### Prototype Mobile 
-<img width=500px src="./assets/screenshots/Isabella_mobile.png">
+![Prototype Mobile]([bildens länk](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Mobile.png?raw=true))
 
+- #### Prototype Dekstop 
+![Alt text](bildens länk)
+
+- #### Menu Open  
+![Alt text](bildens länk)
+
+- #### Exempel card Antarctica 
+![Alt text](bildens länk)
+
+- #### Exempel More Info Card Antarctica 
+![Alt text](bildens länk)
+
+- #### Thank You Card (gift) 
+![Alt text](bildens länk)
+
+- #### Thank You Card (newsletter) 
+![Alt text](bildens länk)
 
 ---
 
