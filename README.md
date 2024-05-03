@@ -40,7 +40,7 @@ Anton Schyberg
 ## Screenshots
 
 - #### Prototype Mobile 
-![Prototype Mobile]([bildens länk](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Mobile.png?raw=true))
+![Prototype Mobile](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Mobile.png?raw=true)
 
 - #### Prototype Dekstop 
 ![Alt text](bildens länk)
