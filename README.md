@@ -43,22 +43,22 @@ Anton Schyberg
 ![Prototype Mobile](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Mobile.png?raw=true)
 
 - #### Prototype Dekstop 
-![Alt text](bildens länk)
+![Prototype Desktop](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Desktop.png?raw=true)
 
 - #### Menu Open  
-![Alt text](bildens länk)
+![Menu Open](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Meny%20-%20Öppen.png?raw=true)
 
-- #### Exempel card Antarctica 
-![Alt text](bildens länk)
+- #### Exempel Card Antarctica 
+![Exempel Card Antarctica](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Antarktis%20-%20Kort.png?raw=true)
 
 - #### Exempel More Info Card Antarctica 
-![Alt text](bildens länk)
+![Exempel More Info Card Antarctica](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Antarktis%20-%20Mer%20Info.png?raw=true)
 
 - #### Thank You Card (gift) 
-![Alt text](bildens länk)
+![Thank You Card gift](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Gåva%20-%20Tack%20ruta%20(kopia).png?raw=true)
 
 - #### Thank You Card (newsletter) 
-![Alt text](bildens länk)
+![Thank You Card newsletter](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Nyhetsbrev%20-Tack%20ruta%20(kopia).png?raw=true)
 
 ---
 
