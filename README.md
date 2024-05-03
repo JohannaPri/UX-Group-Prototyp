@@ -46,7 +46,7 @@ Anton Schyberg
 ![Prototype Desktop](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/WWF%20-%20Desktop.png?raw=true)
 
 - #### Menu Open  
-![Menu Open](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Meny%20-%20Öppen.png?raw=true)
+![Menu Open](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Meny%20-%20open.png?raw=true)
 
 - #### Exempel Card Antarctica 
 ![Exempel Card Antarctica](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Antarktis%20-%20Kort.png?raw=true)
@@ -55,7 +55,7 @@ Anton Schyberg
 ![Exempel More Info Card Antarctica](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Antarktis%20-%20Mer%20Info.png?raw=true)
 
 - #### Thank You Card (gift) 
-![Thank You Card gift](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Gåva%20-%20Tack%20ruta%20(kopia).png?raw=true)
+![Thank You Card gift](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Gift%20-%20Tack%20ruta%20(kopia).png?raw=true)
 
 - #### Thank You Card (newsletter) 
 ![Thank You Card newsletter](https://github.com/JohannaPri/UX-Group-Prototyp/blob/main/Nyhetsbrev%20-Tack%20ruta%20(kopia).png?raw=true)
