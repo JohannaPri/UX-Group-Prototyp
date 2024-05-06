@@ -33,7 +33,7 @@ Rebecka Göthlin
 - GitHub: [@]()
 
 Anton Schyberg
-- GitHub: [@]()
+- GitHub: [@Pingis2](https://github.com/Pingis2)
 
 ---
 
