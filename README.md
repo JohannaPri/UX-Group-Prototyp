@@ -30,7 +30,7 @@ Johanna Prinz
 - GitHub: [@JohannaPri](https://github.com/JohannaPri)
 
 Rebecka Göthlin
-- GitHub: [@]()
+- GitHub: [@RebeckaGothlin](https://github.com/RebeckaGothlin?tab=following)
 
 Anton Schyberg
 - GitHub: [@Pingis2](https://github.com/Pingis2)
